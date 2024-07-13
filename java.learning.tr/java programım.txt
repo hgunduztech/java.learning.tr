@@ -1,0 +1,41 @@
+10 Günlük Java Öğrenme Planı
+Gün 1: Java'ya Giriş ve Değişkenler
+Konu: Java'nın temel yapısı, değişkenler ve veri türleri.
+Görev: Basit bir "Hello, World!" programı yaz ve farklı veri türlerinde değişkenler tanımla.
+Örnek: int, double, char, String, boolean veri türlerini kullanarak değişkenler oluştur ve ekrana yazdır.
+Gün 2: Kontrol Yapıları
+Konu: if-else ifadeleri ve switch-case yapısı.
+Görev: Kullanıcıdan alınan bir sayının pozitif mi, negatif mi yoksa sıfır mı olduğunu belirleyen program yaz.
+Örnek: Kullanıcıdan sayı al ve if-else yapısı kullanarak sonucu belirle.
+Gün 3: Döngüler
+Konu: for, while ve do-while döngüleri.
+Görev: 1'den 10'a kadar olan sayıların toplamını hesaplayan bir program yaz.
+Örnek: for döngüsü kullanarak toplamı hesapla ve ekrana yazdır.
+Gün 4: Diziler
+Konu: Dizilerin tanımlanması ve kullanımı.
+Görev: Bir dizi içerisindeki en büyük ve en küçük sayıyı bulan program yaz.
+Örnek: Bir tam sayı dizisi oluştur ve bu dizideki en büyük ve en küçük elemanları bul.
+Gün 5: Metotlar
+Konu: Metotların tanımlanması ve çağrılması.
+Görev: İki sayının çarpımını hesaplayan bir metot yaz ve çağır.
+Örnek: multiply adlı bir metot oluştur ve bu metotu main metodundan çağırarak sonucu ekrana yazdır.
+Gün 6: Sınıflar ve Nesneler
+Konu: Nesne yönelimli programlama, sınıflar ve nesneler.
+Görev: Bir "Kişi" sınıfı oluştur ve bu sınıfın nesnelerini kullan.
+Örnek: Kisi adlı bir sınıf oluştur ve bu sınıftan nesneler oluşturup kullanarak ekrana yazdır.
+Gün 7: Kalıtım
+Konu: Kalıtım ve sınıflar arasındaki ilişki.
+Görev: "Hayvan" sınıfı ve "Kedi" ve "Köpek" sınıfları arasındaki kalıtım ilişkisini gösteren program yaz.
+Örnek: Hayvan adlı bir ana sınıf oluştur ve Kedi ve Köpek adlı alt sınıflar tanımla.
+Gün 8: Arayüzler
+Konu: Arayüzler ve çoklu kalıtım.
+Görev: "HareketEdebilir" arayüzünü implement eden sınıflar oluştur.
+Örnek: HareketEdebilir adlı bir arayüz oluştur ve bu arayüzü implement eden Insan ve Robot sınıflarını yaz.
+Gün 9: Dosya İşlemleri
+Konu: Dosya okuma ve yazma işlemleri.
+Görev: Bir dosyadan veri okuyan ve başka bir dosyaya yazan program yaz.
+Örnek: java.io paketini kullanarak dosya okuma ve yazma işlemleri gerçekleştir.
+Gün 10: Hata Ayıklama ve İstisnalar
+Konu: Hata ayıklama ve istisna yönetimi.
+Görev: Try-catch blokları kullanarak istisnaları yakalama ve yönetme.
+Örnek: Kullanıcıdan alınan bir sayıyı bölen bir program yaz ve olası hataları (bölme hatası) yakala.
